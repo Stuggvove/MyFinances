@@ -24,4 +24,7 @@
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.New",10},
 {5,2e8d6c33-7dad-49cd-8b1b-bfa2928915c8,"Справочник.ВидыКошельков",1},
-{4,"_$Transaction$_.Commit",11}
+{4,"_$Transaction$_.Commit",11},
+{5,e71e779a-db6d-43cb-a00b-2dce9dc52a85,"",5},
+{5,e71e779a-db6d-43cb-a00b-2dce9dc52a85,"Справочник.Банки",5},
+{4,"_$Data$_.Update",12}
