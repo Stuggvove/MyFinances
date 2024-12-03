@@ -18,4 +18,10 @@
 {3,"1CV8C",2},
 {4,"_$Session$_.Finish",8},
 {3,"BackgroundJob",3},
-{5,57f4ea8c-82b8-41de-a2ce-2f64d7c6dfb9,"",4}
+{5,57f4ea8c-82b8-41de-a2ce-2f64d7c6dfb9,"",4},
+{2,"DESKTOP-4EJ6AEQ",2},
+{13,2,1},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.New",10},
+{5,2e8d6c33-7dad-49cd-8b1b-bfa2928915c8,"Справочник.ВидыКошельков",1},
+{4,"_$Transaction$_.Commit",11}
