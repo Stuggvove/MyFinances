@@ -45,4 +45,7 @@
 {5,2d8be2d6-09d2-442f-85d2-f2e9a96b91ce,"",11},
 {5,2d8be2d6-09d2-442f-85d2-f2e9a96b91ce,"Справочник.Валюты",11},
 {3,"1CV8",4},
-{4,"_$InfoBase$_.DBConfigUpdateError",19}
+{4,"_$InfoBase$_.DBConfigUpdateError",19},
+{4,"_$InfoBase$_.DumpStart",20},
+{4,"_$InfoBase$_.DumpFinish",21},
+{4,"_$InfoBase$_.DumpError",22}
